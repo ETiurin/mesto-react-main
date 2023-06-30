@@ -18,4 +18,4 @@
 
 **Ссылка на GitHub Pages**
 
-* [Ссылка на GitHub](https://github.com/ETiurin/mesto-react.git)
+* [Ссылка на GitHub](https://github.com/ETiurin/mesto-react-main.git)
